@@ -27,3 +27,13 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
     
     
        ![image](https://user-images.githubusercontent.com/39154644/113586635-f0ba6280-9657-11eb-95ac-26d2736c658e.png)
+       
+     
+ Langkah - Langkah :
+ 
+ *Menambahkan tag p, h1, href, a, dan membuat class id pada element tertentu*
+ 
+ 
+ ![1](https://user-images.githubusercontent.com/39154644/113587018-6e7e6e00-9658-11eb-80d1-03df83eb8d44.PNG)
+
+ 
