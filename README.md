@@ -18,11 +18,12 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
    #Intro H1 => Deklarasi ini akan mengubah hanya pada element yang ditandai
  3. Inline yang akan ditampilkan di browser
  4. Class id nya akan ditampilkan karena class id mewakili semuanya
+ 5. 
     contohnya: 
     
-    ![image](https://user-images.githubusercontent.com/39154644/113586588-e39d7380-9657-11eb-8996-98966ba57e14.png)
+          ![image](https://user-images.githubusercontent.com/39154644/113586588-e39d7380-9657-11eb-8996-98966ba57e14.png)
     
     CSS nya : 
     
     
-  ![image](https://user-images.githubusercontent.com/39154644/113586635-f0ba6280-9657-11eb-95ac-26d2736c658e.png)
+          ![image](https://user-images.githubusercontent.com/39154644/113586635-f0ba6280-9657-11eb-95ac-26d2736c658e.png)
