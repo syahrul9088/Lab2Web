@@ -31,7 +31,7 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
      
  Langkah - Langkah :
  
- *Menambahkan tag p, h1, href, a, dan membuat class id pada element tertentu*
+ **Menambahkan tag p, h1, href, a, dan membuat class id pada element tertentu**
  
  
  ![1](https://user-images.githubusercontent.com/39154644/113587018-6e7e6e00-9658-11eb-80d1-03df83eb8d44.PNG)
