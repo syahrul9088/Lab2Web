@@ -36,4 +36,9 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
  
  ![1](https://user-images.githubusercontent.com/39154644/113587018-6e7e6e00-9658-11eb-80d1-03df83eb8d44.PNG)
 
+
+ **Menambahkan CSS Internal**
  
+ 
+ ![2](https://user-images.githubusercontent.com/39154644/113587164-9c63b280-9658-11eb-9e06-77d7393c5bd4.PNG)
+
