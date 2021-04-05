@@ -19,21 +19,24 @@ nav {
     border: 1px solid #099249;
     min-height: 100px;
     padding: 10px;
-    }
-    #intro h1 {
+}
+
+#intro h1 {
     text-align: left;
     border: 0;
     color: #fff;
-    }
-    /* Class Selector */
-    .button {
+}
+    
+/* Class Selector */
+.button {
     padding: 15px 20px;
     background: #bebcbd;
     color: #fff;
     display: inline-block;
     margin: 10px;
     text-decoration: none;
-    }
-    .btn-primary {
+}
+
+.btn-primary {
     background: #E42A42;
 }
