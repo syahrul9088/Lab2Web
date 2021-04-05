@@ -37,8 +37,30 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
  ![1](https://user-images.githubusercontent.com/39154644/113587018-6e7e6e00-9658-11eb-80d1-03df83eb8d44.PNG)
 
 
- **Menambahkan CSS Internal**
+ **Mendeklarasikan CSS Internal**
  
  
  ![2](https://user-images.githubusercontent.com/39154644/113587164-9c63b280-9658-11eb-9e06-77d7393c5bd4.PNG)
+ 
+ **Menambahkan Inline CSS pada tag P**
+ 
+ 
+ ![3](https://user-images.githubusercontent.com/39154644/113587329-d2a13200-9658-11eb-8b86-0f867559a527.PNG)
+ 
+ 
+ **Mendeklarasikan CSS Eksternal**
+ 
+ 
+ ![4](https://user-images.githubusercontent.com/39154644/113587442-fb292c00-9658-11eb-882e-b762e5e9c0ec.PNG)
+ 
+ 
+  **Menambahkan CSS pada Selector**
+  
+  
+  ![5](https://user-images.githubusercontent.com/39154644/113587511-16943700-9659-11eb-996e-d5b0691901b6.PNG)
+
+ 
+
+ 
+
 
